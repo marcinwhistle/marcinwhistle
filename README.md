@@ -1,7 +1,7 @@
 ### <div align="center">I'm Marcin Whistle, Full Stack Developer from Poland 👨‍💻 </div>  
 
 Motivated and determined to develop, I am looking for professional challenges in the field of new technology. <br>
-I know how to cooperate in team and toghether achieve goals. <br>
+I know how to cooperate in team and togheter achieve goals. <br>
 The experience gained while running my own business and managing my own team, I want to use in a business project in an industry that fascinates me. <br>
 
 ## My Skill Set  
