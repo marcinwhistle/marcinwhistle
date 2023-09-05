@@ -44,7 +44,7 @@ The experience gained while running my own business and managing my own team, I 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Jmarcinwhistle" target="_blank">
+<a href="https://github.com/https://github.com/marcinwhistle" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/marcin-gwizdek/" target="_blank">
