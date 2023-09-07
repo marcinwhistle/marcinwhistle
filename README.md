@@ -53,4 +53,6 @@ The experience gained while running my own business and managing my own team, I 
 </div>  
 
 ## GitHub Streak Stats
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcinwhistle&theme=dark)](https://git.io/streak-stats)
+</div>
