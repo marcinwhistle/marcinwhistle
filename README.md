@@ -51,3 +51,6 @@ The experience gained while running my own business and managing my own team, I 
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+## GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcinwhistle&theme=dark)](https://git.io/streak-stats)
