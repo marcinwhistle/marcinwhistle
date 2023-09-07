@@ -3,6 +3,23 @@
 Motivated and determined to develop, I am looking for professional challenges in the field of new technology. I know how to cooperate in team and togheter achieve goals.
 The experience gained while running my own business and managing my own team, I want to use in a business project in an industry that fascinates me.
 
+## My Projects
+
+- Osawii Yoga
+https://osawii-yoga.onrender.com/
+https://github.com/marcinwhistle/osawii-yoga
+Technologies used: HTML, CSS, SASS, RWD, Bootstrap, JavaScript, React, Prisma ORM, mySQL
+
+- Furniture Store
+https://furniture-shop.lemarczini21.repl.co
+https://github.com/marcinwhistle/furniture-shop
+Technologies used: HTML, CSS, RWD, Bootstrap, JavaScript, React
+
+- Pizzeria
+https://project-pizzeria.lemarczini21.repl.co/
+https://github.com/marcinwhistle/project-pizzeria
+Technologies used: HTML, CSS, JavaScript
+
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
