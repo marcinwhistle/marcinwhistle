@@ -5,17 +5,17 @@ The experience gained while running my own business and managing my own team, I 
 
 ## My Projects
 
-- Osawii Yoga <br/>
+- <strong>Osawii Yoga<strong/> <br/>
 https://osawii-yoga.onrender.com/ <br/>
 https://github.com/marcinwhistle/osawii-yoga <br/>
 Technologies used: HTML, CSS, SASS, RWD, Bootstrap, JavaScript, React, Prisma ORM, mySQL
 
-- Furniture Store <br/>
+- <strong>Furniture Store<strong/> <br/>
 https://furniture-shop.lemarczini21.repl.co <br/>
 https://github.com/marcinwhistle/furniture-shop <br/>
 Technologies used: HTML, CSS, RWD, Bootstrap, JavaScript, React <br/>
 
-- Pizzeria <br/>
+- <strong>Pizzeria<strong/> <br/>
 https://project-pizzeria.lemarczini21.repl.co/ <br/>
 https://github.com/marcinwhistle/project-pizzeria <br/>
 Technologies used: HTML, CSS, JavaScript
